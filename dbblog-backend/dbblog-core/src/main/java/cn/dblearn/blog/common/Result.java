@@ -7,9 +7,9 @@ import java.util.HashMap;
 /**
  * Result
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/07 13:28
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 通用返回类
  */
 public class Result extends HashMap<String, Object> {

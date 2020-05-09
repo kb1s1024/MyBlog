@@ -9,9 +9,9 @@ import java.util.Date;
 /**
  * MybatisPlusAutoFillHandler
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2019/11/10 13:54
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 公共字段自动填充类
  */
 @Component

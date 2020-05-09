@@ -6,9 +6,9 @@ import org.apache.shiro.SecurityUtils;
 /**
  * AbstractController
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/22 12:35
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description
  */
 public class AbstractController {

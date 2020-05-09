@@ -12,9 +12,9 @@ import org.springframework.web.servlet.NoHandlerFoundException;
 /**
  * MyExceptionHandler
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/07 14:33
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 统一异常处理器
  */
 @RestControllerAdvice

@@ -20,9 +20,9 @@ import java.util.Map;
 /**
  * ShiroConfig
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/07 16:39
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description Shiro配置類
  */
 @Configuration

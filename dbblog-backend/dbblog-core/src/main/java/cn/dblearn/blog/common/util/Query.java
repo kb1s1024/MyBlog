@@ -11,9 +11,9 @@ import java.util.Map;
 /**
  * Query
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/25 11:48
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 查询参数
  */
 @Data

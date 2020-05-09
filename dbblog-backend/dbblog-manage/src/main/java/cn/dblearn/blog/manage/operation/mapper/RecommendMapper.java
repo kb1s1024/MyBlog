@@ -12,7 +12,7 @@ import java.util.List;
  * 推荐 Mapper 接口
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2019-02-22
  */
 @Mapper

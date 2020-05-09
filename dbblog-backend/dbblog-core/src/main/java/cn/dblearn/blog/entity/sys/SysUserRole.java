@@ -13,7 +13,7 @@ import java.io.Serializable;
  * 用户与角色对应关系
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2018-10-19
  */
 @Data

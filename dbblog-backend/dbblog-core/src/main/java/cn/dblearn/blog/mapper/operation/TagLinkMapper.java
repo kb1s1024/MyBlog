@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 文章标签多对多维护表 Mapper 接口
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2019-01-07
  */
 @Mapper

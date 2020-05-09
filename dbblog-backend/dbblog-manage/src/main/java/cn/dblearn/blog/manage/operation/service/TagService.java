@@ -12,7 +12,7 @@ import java.util.Map;
  * 标签 服务类
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2019-01-21
  */
 public interface TagService extends IService<Tag> {

@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
  *
  * @author Zoey
  * @date 2018/10/25 22:45
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description
  */
 public class ValidatorUtils {

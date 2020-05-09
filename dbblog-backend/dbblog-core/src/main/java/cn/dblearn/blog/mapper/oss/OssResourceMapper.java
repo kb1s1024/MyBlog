@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 云存储资源表 Mapper 接口
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2018-11-30
  */
 @Mapper

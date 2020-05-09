@@ -20,9 +20,9 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * OAuth2Filter
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/07 16:39
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description
  */
 public class OAuth2Filter extends AuthenticatingFilter {
@@ -41,11 +41,7 @@ public class OAuth2Filter extends AuthenticatingFilter {
 
     @Override
     protected boolean isAccessAllowed(ServletRequest request, ServletResponse response, Object mappedValue) {
-        if(((HttpServletRequest) request).getMethod().equals(RequestMethod.OPTIONS.name())){
-            return true;
-        }
-
-        return false;
+        return ((HttpServletRequest) request).getMethod().equals(RequestMethod.OPTIONS.name());
     }
 
     @Override

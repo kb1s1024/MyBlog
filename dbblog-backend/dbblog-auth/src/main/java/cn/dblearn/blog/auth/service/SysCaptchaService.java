@@ -6,9 +6,9 @@ import java.awt.image.BufferedImage;
 /**
  * SysCaptchaService
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/19 18:52
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 验证码类
  */
 public interface SysCaptchaService {

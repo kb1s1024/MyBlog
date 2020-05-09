@@ -17,7 +17,7 @@ import org.springframework.web.multipart.MultipartFile;
  * 云存储资源表 前端控制器
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2018-11-30
  */
 @RestController

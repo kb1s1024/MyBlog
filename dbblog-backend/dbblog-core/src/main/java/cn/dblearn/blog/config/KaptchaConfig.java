@@ -10,9 +10,9 @@ import java.util.Properties;
 /**
  * KaptchaConfig
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/20 13:17
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 验证码配置类
  */
 @Configuration

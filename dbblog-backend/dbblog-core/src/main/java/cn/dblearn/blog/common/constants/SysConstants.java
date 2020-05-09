@@ -3,9 +3,9 @@ package cn.dblearn.blog.common.constants;
 /**
  * Constants
  *
- * @author bobbi
+ * @author kb1s1024
  * @date 2018/10/19 13:46
- * @email 571002217@qq.com
+ * @email kb1s1024@126.com
  * @description 系统常量
  */
 public class SysConstants {

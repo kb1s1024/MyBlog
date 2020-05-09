@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 云存储资源表 服务实现类
  * </p>
  *
- * @author bobbi
+ * @author kb1s1024
  * @since 2018-11-30
  */
 @Service
